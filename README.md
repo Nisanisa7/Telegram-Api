@@ -58,10 +58,9 @@ You can view my Postman collection [here](https://www.getpostman.com/collections
 or </br>
 [![run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/65e37e55e8c3d1a69d55)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## Related Project
+* [`Frontend-React-Telegram`](https://github.com/Nisanisa7/React-Telegram)
+* [`Backend-Telegram-api`](https://github.com/Nisanisa7/Telegram-Api)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
