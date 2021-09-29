@@ -1,6 +1,23 @@
-# Telegram Clone
+<br />
+<p align="center">
 
-This API is for Telegram Clone aplication
+  <h3 align="center">Telegram Api</h3>
+  <p align="center">
+  <image align="center" src='./screenshot/LOGO TELEGRAM.png' />
+  </p>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/Nisanisa7/React-Telegram"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://telegramku.vercel.app//">View Demo</a>
+    ·
+    <a href="https://github.com/Nisanisa7/Telegram-Api/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Nisanisa7/Telegram-Api/issues">Request Feature</a>
+  </p>
+</p>
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
