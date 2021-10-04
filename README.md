@@ -3,7 +3,7 @@
 
   <h3 align="center">Telegram Api</h3>
   <p align="center">
-  <image align="center" src='./screenshot/LOGO TELEGRAM.png' />
+  <image align="center" src='./screenshoot/LOGO TELEGRAM.png'/>
   </p>
 
   <p align="center">
