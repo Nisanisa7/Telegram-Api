@@ -19,6 +19,14 @@
   </p>
 </p>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+Telegram clone is a chatting aplication, that help you to communicate with your friends </br> trough private chat.
+With this Aplication you can do a private chat, search a user, and update your profile.</br>
+And this repository is an API for Telegram Clone
+
 ## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
